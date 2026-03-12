@@ -151,15 +151,6 @@ Despite anatomical variability and imaging artifacts, the system demonstrates re
 
 ---
 
-# Example Output
-
-The trained model generates **3D segmentation masks** where each voxel corresponds to an anatomical class.
-These outputs allow clinicians to directly visualize **missing tooth regions** alongside surrounding structures.
-
-The predictions can be exported and inspected in tools such as **3D Slicer** for further analysis or treatment planning.
-
----
-
 # Technologies Used
 
 * Python
@@ -195,9 +186,3 @@ Key references that influenced this work include research on U-Net segmentation 
 * 3D Slicer medical imaging platform 
 
 ---
-
-If you'd like, I can also help you create:
-
-* **A more impressive “ML research style” README (top-tier GitHub style)**
-* **Add architecture diagrams + results images section**
-* **Make it look like a strong AI research repo for recruiters**.
